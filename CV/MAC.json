@@ -1,7 +1,7 @@
 {
   "$schema": "https://raw.githubusercontent.com/getmanfred/mac/v0.3/schema/schema.json",
   "settings": {
-    "language": "ES",
+    "language": "EN",
     "MACVersion": "0.3"
   },
   "aboutMe": {
@@ -17,8 +17,7 @@
       "location": {
         "country": "Argentina",
         "region": "Buenos Aires",
-        "municipality": "Buenos Aires",
-        "notes": "Autocompleted using Google Maps API"
+        "municipality": "Buenos Aires"
       }
     },
     "relevantLinks": [
@@ -169,12 +168,10 @@
   "knowledge": {
     "languages": [
       {
-        "name": "English",
-        "level": "Professional working proficiency"
+        "name": "English"
       },
       {
-        "name": "Spanish",
-        "level": "Native or bilingual proficiency"
+        "name": "Spanish"
       }
     ],
     "hardSkills": [
@@ -249,6 +246,52 @@
           "name": "GitLab",
           "type": "technology"
         }
+      }
+    ],
+    "studies": [
+      {
+        "studyType": "unaccredited",
+        "degreeAchieved": false,
+        "name": "Front end developer",
+        "startDate": "2021-01-01",
+        "institution": {
+          "name": "Open Bootcamp",
+          "URL": "https://open-bootcamp.com/"
+        },
+        "linkedCompetences": [
+          {
+            "name": "AngularJS",
+            "type": "technology"
+          },
+          {
+            "name": "Bootstrap",
+            "type": "technology"
+          },
+          {
+            "name": "CSS",
+            "type": "technology"
+          },
+          {
+            "name": "Git",
+            "type": "technology"
+          },
+          {
+            "name": "HTML",
+            "type": "technology"
+          },
+          {
+            "name": "JavaScript",
+            "type": "technology"
+          },
+          {
+            "name": "React",
+            "type": "technology"
+          },
+          {
+            "name": "Sass",
+            "type": "technology"
+          }
+        ]
       }
     ]
   },
@@ -344,7 +387,6 @@
         "Frontend Developer",
         "Layout Designer / Maquetación"
       ]
-    },
-    "status": "searchingActively"
+    }
   }
 }
