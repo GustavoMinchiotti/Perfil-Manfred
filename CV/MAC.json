@@ -253,6 +253,42 @@
         "studyType": "unaccredited",
         "degreeAchieved": false,
         "name": "Front end developer",
+        "startDate": "2022-10-01",
+        "institution": {
+          "name": "Alura LATAM",
+          "URL": "https://www.aluracursos.com/"
+        },
+        "linkedCompetences": [
+          {
+            "name": "Bootstrap",
+            "type": "technology"
+          },
+          {
+            "name": "CSS",
+            "type": "technology"
+          },
+          {
+            "name": "Figma",
+            "type": "technology"
+          },
+          {
+            "name": "HTML",
+            "type": "technology"
+          },
+          {
+            "name": "JavaScript",
+            "type": "technology"
+          },
+          {
+            "name": "React",
+            "type": "technology"
+          }
+        ]
+      },
+      {
+        "studyType": "unaccredited",
+        "degreeAchieved": false,
+        "name": "Front end developer",
         "startDate": "2021-01-01",
         "institution": {
           "name": "Open Bootcamp",
