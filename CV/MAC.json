@@ -15,6 +15,9 @@
         "link": ""
       },
       "location": {
+        "country": "Argentina",
+        "region": "Buenos Aires",
+        "municipality": "Buenos Aires",
         "notes": "Autocompleted using Google Maps API"
       }
     },
