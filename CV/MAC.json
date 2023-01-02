@@ -1,0 +1,171 @@
+{
+  "$schema": "https://raw.githubusercontent.com/getmanfred/mac/v0.3/schema/schema.json",
+  "settings": {
+    "language": "ES",
+    "MACVersion": "0.3"
+  },
+  "aboutMe": {
+    "profile": {
+      "name": "Gustavo",
+      "surnames": "Minchiotti",
+      "title": "Desarrollador Front end Jr",
+      "description": "Actualmente me estoy formando como desarrollador web Full Stack en variadas tecnologías, Cursé exitosamente la carrera Tester QA. Estoy interesado en migrar al sector IT. \n\nRespecto a mi carrera actual y mi vasta trayectoria anterior demuestra claramente algunos aspectos como: Estabilidad, Adaptabilidad a distintos entornos, trabajar en armonía, liderar equipos. Soy capacitador en negociación y comunicación asertiva.",
+      "avatar": {
+        "alt": "",
+        "link": ""
+      },
+      "location": {
+        "notes": "Autocompleted using Google Maps API"
+      }
+    }
+  },
+  "experience": {
+    "jobs": [
+      {
+        "organization": {
+          "name": "Bootcamp AMR "
+        },
+        "roles": [
+          {
+            "name": "Cofundador",
+            "startDate": "2018-05-01",
+            "challenges": [
+              {
+                "description": "Skills: Comunicación interpersonal"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Servicio Penitenciario Federal (Oficial) "
+        },
+        "roles": [
+          {
+            "name": "Responsable de planificación de operaciones",
+            "startDate": "2011-12-01",
+            "challenges": [
+              {
+                "description": "En estos 10 años de ejercicio en la profesión me he capacitado constantemente y obtenido en consecuencia excelentes calificaciones.\nMe capacite en las 3 áreas fundamentales que intervienen en un comité de crisis, (Táctica, Negociación e Inteligencia) en especial en el área de Negociación donde también soy capacitador.\nCursos: \nXXº Curso básico de operaciones especiales.\nSeguridad a personas designadas. (custodia V.I.P.) otorgado por Ejército Argentino.\nNegociador de rehenes (curso internacional) otorgado por el D.O.E.\nCertificación en PNL plataforma de aprendizaje virtual Punto digital.\nCoach en PNL instituto de Mauricio Benoist (México)\nBig Data: Haciendo hablar los datos (IN-PP-34741)\nSensibilización en la temática de género y violencia contra las mujeres (29-06-2021)\nCurso virtual de gestión documental electrónica (GDE 2020) et1\n2da edición de curso integral avanzado de base de datos informáticos año 2020\nCurso Básico en Inteligencia Criminal de la Policía Federal Argentina.\nInvestigación mediante fuentes abiertas y dispositivos móviles Policía Federal Argentina (OSINT)"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Purificadores de agua PSA "
+        },
+        "roles": [
+          {
+            "name": "encargado de eventos e instalador",
+            "startDate": "2010-07-01",
+            "finishDate": "2011-12-31",
+            "challenges": [
+              {
+                "description": "TBD"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Haidri Beverages Pvt. Ltd. PepsiCola International Franchise "
+        },
+        "roles": [
+          {
+            "name": "Operador de carretilla elevadora / recepción expedición de productos.",
+            "startDate": "2010-01-01",
+            "finishDate": "2010-06-30",
+            "challenges": [
+              {
+                "description": "TBD"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Faena "
+        },
+        "roles": [
+          {
+            "name": "CCTV Operator",
+            "startDate": "2009-02-01",
+            "finishDate": "2009-12-31",
+            "challenges": [
+              {
+                "description": "TBD"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Cervecería y Maltería Quilmes "
+        },
+        "roles": [
+          {
+            "name": "Jefe de depósito",
+            "startDate": "2008-08-01",
+            "finishDate": "2009-01-31",
+            "challenges": [
+              {
+                "description": "jefe en la planta de Llavallol ex cervecería Bieckert"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "DIA Argentina "
+        },
+        "roles": [
+          {
+            "name": "Auxiliar de recepción",
+            "startDate": "2006-03-01",
+            "finishDate": "2008-08-31",
+            "challenges": [
+              {
+                "description": "recepcionista de mercadería en centro de distribución."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "COTO CICSA "
+        },
+        "roles": [
+          {
+            "name": "Auxiliar de recepción/ expedición.",
+            "startDate": "2004-08-01",
+            "finishDate": "2005-12-31",
+            "challenges": [
+              {
+                "description": "TBD"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "careerPreferences": {
+    "contact": {
+      "publicProfiles": [
+        {
+          "type": "linkedin",
+          "URL": "www.linkedin.com/in/gustavo-minchiotti"
+        }
+      ]
+    },
+    "status": "searchingActively"
+  }
+}
